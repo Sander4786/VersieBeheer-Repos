@@ -12,6 +12,8 @@ namespace VersieBeheer
         {
             Console.WriteLine("Hello World");
             Console.ReadLine();
+            Console.WriteLine("Pls work");
+            Console.ReadLine();
         }
     }
 }
